@@ -10,17 +10,17 @@
 ## 使用教程
 #### 1.您必须处于石斧软件的校园网内,即连接校园网WIFI。之后打开软件,输入账号密码进行验证
 
-![输入图片说明](img/login%E5%9B%BE%E7%89%87.png)
+![image](https://user-images.githubusercontent.com/110643835/193791923-9344e225-a83b-4f43-8a27-7cbade940d4c.png)
 
 #### 2.登录成功后,页面会显示您当前的绑定的设备MAC地址
-![输入图片说明](img/login_ok%E5%9B%BE%E7%89%87.png)
+![image](https://user-images.githubusercontent.com/110643835/193791962-f9d90446-605b-4e21-831b-a19e24847793.png)
 
 #### 3.那我们如何修改为另外一个设备呢？
 ##### 1.首先你们要知道MAC地址是什么,通俗来说,MAC地址就是你在局域网中的地址,正是因为MAC,主机才能和你建立通信。那么MAC地址在哪里呢？
 MAC地址一般存在于 `关于手机` -> `状态信息` -> `MAC地址`  
-![输入图片说明](img/mac.png%E5%9B%BE%E7%89%87.png)
-如下:
 
+如下:
+![image](https://user-images.githubusercontent.com/110643835/193791993-d6e6099f-2024-4bf5-a8d3-913f5cd925e8.png)
 
 ##### 2.复制你需要修改设备的MAC地址**（注意！！MAC地址要大写！！）** ,然后回到软件复制进去 点击修改就成了 **（注意！！MAC地址要大写！！）** 
 
@@ -31,4 +31,4 @@ MAC地址一般存在于 `关于手机` -> `状态信息` -> `MAC地址`
 ##### 3.万一我修改失误了怎么办？
 别担心,我们贴心的为你们准备了历史记录功能,即使修改设备失误,也可以按照原来的办法修改回去哦~
 
-![输入图片说明](img/history%E5%9B%BE%E7%89%87.png)
+![image](https://user-images.githubusercontent.com/110643835/193792090-1cc5119d-aebe-4d91-85e7-9faf61f3273e.png)
