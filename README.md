@@ -19,12 +19,11 @@
 ##### 1.首先你们要知道MAC地址是什么,通俗来说,MAC地址就是你在局域网中的地址,正是因为MAC,主机才能和你建立通信。那么MAC地址在哪里呢？
 MAC地址一般存在于 `关于手机` -> `状态信息` -> `MAC地址`  
 
-如下:
 ![image](https://user-images.githubusercontent.com/110643835/193791993-d6e6099f-2024-4bf5-a8d3-913f5cd925e8.png)
 
 ##### 2.复制你需要修改设备的MAC地址**（注意！！MAC地址要大写！！）** ,然后回到软件复制进去 点击修改就成了 **（注意！！MAC地址要大写！！）** 
 
-![输入图片说明](img/%E5%9B%BE%E7%89%87.png)
+![image](https://user-images.githubusercontent.com/110643835/193792259-29c8099f-72f0-4f76-9fbe-e2d236f9e6b9.png)
 
 出现上面的页面就修改成成功了
 
